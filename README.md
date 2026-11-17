@@ -126,7 +126,7 @@ The source code for this project is stored in a public GitHub repository.
 
 Repository:
 
-<your-github-repository-url>
+https://github.com/senthamil-pandiyan/paradise-nursery-shopping/
 
 
 DEPLOYMENT
